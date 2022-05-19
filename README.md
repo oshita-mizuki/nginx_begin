@@ -13,4 +13,4 @@ http://localhost:5321/\n\n
 
 ○開発
 
-『src\index.html』を修正する\n
+『src\index.html』を修正する
