@@ -1,0 +1,42 @@
+main{
+    width: auto;
+    margin: auto;
+}
+
+body{
+    width: 150px;
+    margin: auto;
+    background-color: snow;
+}
+
+header{
+    text-align: center;
+}
+
+form{
+    text-align: center;
+}
+
+label {
+    display: block; 
+  }
+
+table{
+    width: 50%;
+    margin: auto;
+}
+
+thead{
+    text-align: center;
+    background-color: dodgerblue;
+    color: aliceblue;
+}
+
+tbody{
+    text-align: center;
+    background-color: lightcyan;
+}
+
+tbody tr:nth-child(even){
+    background-color: lightblue;
+}
